@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDrHKFTDJ8AX8T7WjPddcQ7QEJySP0E0So</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1075049760122</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.eldiiar.NextWave</string>
+	<key>PROJECT_ID</key>
+	<string>nextwave-ce512</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nextwave-ce512.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1075049760122:ios:98c68015d18ba1aff302c3</string>
+</dict>
+</plist>
